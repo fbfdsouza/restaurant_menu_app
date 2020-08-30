@@ -1,0 +1,13 @@
+node_modules
+# Cordova
+info.txt
+platforms/*
+!platforms/README.md
+!platforms/.gitkeep
+plugins/*
+!plugins/README.md
+!plugins/.gitkeep
+www/*
+!www/README.md
+.gradle/
+
