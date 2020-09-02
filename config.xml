@@ -19,6 +19,7 @@
     <allow-intent href="geo:*" />
     <platform name="android">
         <allow-intent href="market:*" />
+        <access origin="whatsapp:*" launch-external="yes" />
         <icon src="res/icon/android/icon-72-hdpi.png" density="hdpi" />
         <icon src="res/icon/android/icon-96-xhdpi.png" density="xhdpi" />
         <icon src="res/icon/android/icon-144-xxhdpi.png" density="xxhdpi" />
