@@ -80,7 +80,8 @@
       "cordova-plugin-androidx": {}
     },
     "platforms": [
-      "browser"
+      "browser",
+      "android"
     ]
   }
 }
