@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "906085783166",
+    "firebase_url": "https://cozinha-maria-bell-2dd97.firebaseio.com",
+    "project_id": "cozinha-maria-bell-2dd97",
+    "storage_bucket": "cozinha-maria-bell-2dd97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906085783166:android:958512dd116d4f07372a2f",
+        "android_client_info": {
+          "package_name": "br.cozinha.mariabell"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906085783166-mntjc8nh336bo3gq7ndu63c2tdir6onq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-CsAWBrrpgO5U_mImrS8q6fU2gKV2h8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906085783166-mntjc8nh336bo3gq7ndu63c2tdir6onq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
