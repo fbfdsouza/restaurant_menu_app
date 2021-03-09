@@ -1,1 +1,1 @@
-# cmb_cordova
+# restaurant menu app
